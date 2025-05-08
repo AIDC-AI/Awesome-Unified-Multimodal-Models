@@ -240,3 +240,19 @@
 | [Subjects200K](https://huggingface.co/datasets/Yuanshi/Subjects200K)                   | 200K    | [Ominicontrol: Minimal and universal control for diffusion transformer](https://arxiv.org/pdf/2411.15098)                                                                                                                                                                                                                                                                                                  | arXiv   | 2024/11/22 |
 | [MultiGen-20M](https://huggingface.co/datasets/limingcv/MultiGen-20M_train)            | 20M     | [Unicontrol: A unified diffusion model for controllable visual generation in the wild](https://arxiv.org/pdf/2305.11147)                                                                                                                                                                                                                                                                                   | NeurIPS | 2023/05/18 |
 | [LAION-Face](https://huggingface.co/datasets/FacePerceiver/laion-face)                 | 50M     | [General facial representation learning in a visual-linguistic manner](https://arxiv.org/pdf/2112.03109)                                                                                                                                                                                                                                                                                                    | CVPR    | 2021/12/06 |
+
+
+
+
+# Citation
+
+If you find this repo is helpful for your research, please cite our paper:
+
+```
+@article{zhang2025unified,
+  title={Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities},
+  author={Zhang, Xinjie and Guo, Jintao and Zhao, Shanshan and Fu, Minghao and Duan, Lunhao and Wang, Guo-Hua and Chen, Qing-Guo and Xu, Zhao and Luo, Weihua and Zhang, Kaifu},
+  journal={arXiv preprint arXiv:2505.02567},
+  year={2025}
+}
+```
