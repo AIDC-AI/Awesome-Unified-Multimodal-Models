@@ -6,6 +6,7 @@
 <div align="center"> <h1 style="font-size: 3em; margin-bottom: 0.2em;">Awesome Unified Multimodal Models</h1> </div>
 <div align="center" style="font-size: 2em;"> <a href="https://arxiv.org/abs/2505.02567" target="_blank">📚Survey</a> • 🤗 <a href="https://huggingface.co/papers/2505.02567" target="_blank">HF Repo</a> </div>
 
+##
 ![](./figures/papers.png)
 
 *Figure 1: Timeline of Publicly Available and Unavailable Unified Multimodal Models. The models are categorized by their release years, from 2023 to 2025. Models underlined in the diagram represent any-to-any multimodal models, capable of handling inputs or outputs beyond text and image, such as audio, video, and speech. The timeline highlights the rapid growth in this field.*
@@ -290,7 +291,7 @@ Designed to help researchers and practitioners explore, compare, and build state
 ### Applications and Opportunities
 <a id="applications-and-opportunities"></a>
 |       Name       | Title                                                                                                                                                                                                                                                           | Venue | Date       | Code                                                         | Demo                                                                 |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :--------- | :----------------------------------------------------------- | :------------------------------------------------------------------- |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :--------- | :----------------------------------------------------------- | :------------------------------------------------------------------- | :------- |
 |       UniCTokens       | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) ![GitHub Repo stars](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social)                                              | arXiv | 2025/05/20 | [Github](https://github.com/arctanxarc/UniCTokens)               | -     |
 |       Fair-UMLLM       | [On Fairness of Unified Multimodal Large Language Model for Image Generation](https://arxiv.org/abs/2502.03429)                                                          | arXiv | 2025/02/05 | -         | -        |
 |       T2I-R1       | [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) ![GitHub Repo stars](https://img.shields.io/github/stars/CaraJ7/T2I-R1?style=social)                                              | arXiv | 2025/01/29 | [Github](https://github.com/CaraJ7/T2I-R1)               | -     |
