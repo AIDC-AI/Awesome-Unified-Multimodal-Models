@@ -81,7 +81,7 @@ Designed to help researchers and practitioners explore, compare, and build state
 ##### b-2: Semantic Encoding
 | Name | Title | Venue | Date | Code | Demo |
 | ---- | ----- | ----- | ---- | ---- | ---- |
-| Ovis-U1 | [Ovis-U1 Technical Report](https://arxiv.org/abs/2506.23044)![GitHub Repo stars](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1?style=social)  | arXiv | 2025/06/28 | [GitHub](https://github.com/AIDC-AI/Ovis-U1) | [Demo](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B)    |
+| Ovis-U1 | [Ovis-U1 Technical Report](https://arxiv.org/abs/2506.23044) ![GitHub Repo stars](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1?style=social)  | arXiv | 2025/06/28 | [Github](https://github.com/AIDC-AI/Ovis-U1) | [Demo](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B)    |
 | UniCode$^2$ | [UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2506.20214)  | arXiv | 2025/06/20 | - | -    |
 | OmniGen2 | [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) ![GitHub Repo stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social) | arXiv | 2025/06/18 | [Github](https://github.com/VectorSpaceLab/OmniGen2) | [Demo](https://huggingface.co/spaces/OmniGen2/OmniGen2) |
 | Tar | [Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](https://arxiv.org/abs/2506.18898) ![GitHub Repo stars](https://img.shields.io/github/stars/csuhan/Tar?style=social) | arXiv | 2025/06/18 | [Github](https://github.com/csuhan/Tar) | [Demo](https://tar.csuhan.com/) |
