@@ -130,6 +130,7 @@ Designed to help researchers and practitioners explore, compare, and build state
 |       OmniMamba       | [OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models](https://arxiv.org/abs/2503.08686) ![GitHub Repo stars](https://img.shields.io/github/stars/hustvl/OmniMamba?style=social)                                     | arXiv | 2025/03/11 | [Github](https://github.com/hustvl/OmniMamba)                | -                                                                    |
 |       Janus-Pro       | [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social)                                              | arXiv | 2025/01/29 | [Github](https://github.com/deepseek-ai/Janus)               | [Demo](https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B)     |
 |       Janus       | [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social)                                              | arXiv | 2024/10/17 | [Github](https://github.com/deepseek-ai/Janus)               | [Demo](https://huggingface.co/spaces/deepseek-ai/Janus-1.3B)     |
+|       ULM-R1       | [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534)                                              | arXiv | 2025/05/23 | [Github](https://github.com/mm-vl/ULM-R1)               | -     |
 
 
 ##### b-5: Hybrid Encoding (Joint)
@@ -352,6 +353,10 @@ Designed to help researchers and practitioners explore, compare, and build state
 |       UniCTokens       | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) ![GitHub Repo stars](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social)                                              | arXiv | 2025/05/20 | [Github](https://github.com/arctanxarc/UniCTokens)               | -     |
 |       Fair-UMLLM       | [On Fairness of Unified Multimodal Large Language Model for Image Generation](https://arxiv.org/abs/2502.03429)                                                          | arXiv | 2025/02/05 | -         | -        |
 |       T2I-R1       | [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) ![GitHub Repo stars](https://img.shields.io/github/stars/CaraJ7/T2I-R1?style=social)                                              | arXiv | 2025/01/29 | [Github](https://github.com/CaraJ7/T2I-R1)               | -     |
+|       ULM-R1       | [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534)   | arXiv | 2025/05/23 | [Github](https://github.com/mm-vl/ULM-R1)               | -     |  
+|       ReasonGen-R1       | [ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL](https://arxiv.org/abs/2505.24875)   | arXiv | 2025/05/30 | [Github](https://github.com/Franklin-Zhang0/ReasonGen-R1)               | [Demo](https://reasongen-r1.github.io/)    |  
+
+
 
 # Citation
 If you find this repo is helpful for your research, please cite our paper:
