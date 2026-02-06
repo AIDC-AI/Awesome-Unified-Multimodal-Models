@@ -7,7 +7,7 @@
 <div align="center" style="font-size: 2em;"> <a href="https://arxiv.org/abs/2505.02567" target="_blank">📚Survey</a> • 🤗 <a href="https://huggingface.co/papers/2505.02567" target="_blank">HF Repo</a> </div>
 
 ##
-![](./figures/papers.png)
+![](./figures/papers.jpg)
 
 *Figure 1: Timeline of Publicly Available and Unavailable Unified Multimodal Models. The models are categorized by their release years, from 2023 to 2025. Models underlined in the diagram represent any-to-any multimodal models, capable of handling inputs or outputs beyond text and image, such as audio, video, and speech. The timeline highlights the rapid growth in this field.*
 
