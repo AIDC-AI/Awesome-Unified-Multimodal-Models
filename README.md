@@ -375,6 +375,9 @@ Designed to help researchers and practitioners explore, compare, and build state
 |       UniCTokens       | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) ![GitHub Repo stars](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social)                                              | arXiv | 2025/05/20 | [Github](https://github.com/arctanxarc/UniCTokens)               | -     |
 |       Fair-UMLLM       | [On Fairness of Unified Multimodal Large Language Model for Image Generation](https://arxiv.org/abs/2502.03429)                                                          | arXiv | 2025/02/05 | -         | -        |
 |       T2I-R1       | [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) ![GitHub Repo stars](https://img.shields.io/github/stars/CaraJ7/T2I-R1?style=social)                                              | arXiv | 2025/01/29 | [Github](https://github.com/CaraJ7/T2I-R1)               | -     |
+## Libraries and Tools
+- [**VeRL-Omni**](https://github.com/verl-project/verl-omni) ![GitHub Repo stars](https://img.shields.io/github/stars/verl-project/verl-omni?style=social): Easy, fast, and stable RL training for diffusion and omni-modality models (e.g., unified multimodal generators). [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+
 # Citation
 If you find this repo is helpful for your research, please cite our paper:
 ```
